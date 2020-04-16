@@ -1,0 +1,4 @@
+Packages to install:
+    django-readonly-field
+    djangorestframework
+    randomuser
